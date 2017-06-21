@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageListApp</string>
+    <string name="add_button_title">Add Picture</string>
+    <string name="add_camera_title">Capture Picture</string>
+    <string name="edit_caption">Enter a caption</string>
+    <string name="add_caption">Confirm Caption</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_button">Delete</string>
+    <string name="crop_button">Crop</string>
+</resources>
